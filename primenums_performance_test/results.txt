@@ -1,0 +1,180 @@
+primFast.lua
+Test value: 1
+
+real	0m0.017s
+user	0m0.002s
+sys	0m0.003s
+primFast.lua
+Test value: 12
+
+real	0m0.006s
+user	0m0.002s
+sys	0m0.001s
+primFast.lua
+Test value: 123
+
+real	0m0.005s
+user	0m0.002s
+sys	0m0.001s
+primFast.lua
+Test value: 1234
+
+real	0m0.006s
+user	0m0.002s
+sys	0m0.001s
+primFast.lua
+Test value: 12345
+
+real	0m0.011s
+user	0m0.006s
+sys	0m0.002s
+primFast.lua
+Test value: 123456
+
+real	0m0.071s
+user	0m0.063s
+sys	0m0.004s
+primFast.lua
+Test value: 1234567
+
+real	0m0.722s
+user	0m0.675s
+sys	0m0.032s
+primFast.lua
+Test value: 12345678
+
+real	0m6.747s
+user	0m6.442s
+sys	0m0.234s
+primFast.luajit
+Test value: 1
+
+real	0m0.020s
+user	0m0.003s
+sys	0m0.004s
+primFast.luajit
+Test value: 12
+
+real	0m0.009s
+user	0m0.003s
+sys	0m0.002s
+primFast.luajit
+Test value: 123
+
+real	0m0.008s
+user	0m0.002s
+sys	0m0.002s
+primFast.luajit
+Test value: 1234
+
+real	0m0.006s
+user	0m0.002s
+sys	0m0.001s
+primFast.luajit
+Test value: 12345
+
+real	0m0.007s
+user	0m0.003s
+sys	0m0.002s
+primFast.luajit
+Test value: 123456
+
+real	0m0.016s
+user	0m0.011s
+sys	0m0.002s
+primFast.luajit
+Test value: 1234567
+
+real	0m0.128s
+user	0m0.106s
+sys	0m0.018s
+primFast.luajit
+Test value: 12345678
+
+real	0m1.238s
+user	0m1.090s
+sys	0m0.128s
+primFast.py
+Test value: 1
+
+real	0m0.142s
+user	0m0.044s
+sys	0m0.014s
+primFast.py
+Test value: 12
+
+real	0m0.039s
+user	0m0.026s
+sys	0m0.006s
+primFast.py
+Test value: 123
+
+real	0m0.040s
+user	0m0.027s
+sys	0m0.007s
+primFast.py
+Test value: 1234
+
+real	0m0.045s
+user	0m0.029s
+sys	0m0.007s
+primFast.py
+Test value: 12345
+
+real	0m0.053s
+user	0m0.038s
+sys	0m0.007s
+primFast.py
+Test value: 123456
+
+real	0m0.153s
+user	0m0.133s
+sys	0m0.012s
+primFast.py
+Test value: 1234567
+
+real	0m1.143s
+user	0m1.064s
+sys	0m0.050s
+primFast.py
+Test value: 12345678
+
+real	0m11.524s
+user	0m10.896s
+sys	0m0.426s
+primFast.sh
+Test value: 1
+
+real	0m0.018s
+user	0m0.004s
+sys	0m0.004s
+primFast.sh
+Test value: 12
+
+real	0m0.019s
+user	0m0.007s
+sys	0m0.006s
+primFast.sh
+Test value: 123
+
+real	0m0.062s
+user	0m0.031s
+sys	0m0.017s
+primFast.sh
+Test value: 1234
+
+real	0m0.280s
+user	0m0.175s
+sys	0m0.058s
+primFast.sh
+Test value: 12345
+
+real	0m3.580s
+user	0m3.113s
+sys	0m0.290s
+primFast.sh
+Test value: 123456
+
+real	4m5.643s
+user	3m56.230s
+sys	0m4.911s

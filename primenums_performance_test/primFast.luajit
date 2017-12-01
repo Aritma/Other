@@ -1,0 +1,22 @@
+MAX=arg[1]
+ARR={}
+
+for n=1,MAX do ARR[n]=n end
+
+for k,v in ipairs(ARR) do
+	if v>1 then
+		POCET=math.floor(MAX/v)
+		if POCET>=v then
+			for i=v,POCET do
+				POZICE=v*i
+				ARR[POZICE]=0
+			end
+		end
+	else
+		ARR[v]=0
+	end
+	if ARR[v]>1 then
+		print(ARR[v])	
+	end
+end
+
